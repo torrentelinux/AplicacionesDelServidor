@@ -11,12 +11,12 @@ Ejecute 'AplicacionesDelServidor.exe' haciendo clic sobre el mismo.
 Para desinstalar la aplicación .exe junto con .ps1 y sus librerías .dll y .bpl
 borre el directorio/carpeta por completo que contiene a los archivos antes mencionados.
 
-________
-Licencia
-Lea la licencia de uso en:
-	* español el archivo .\AplicacionesDelServidor\LICENCIA\LICENCIA.txt
-	* inglés el archivo .\AplicacionesDelServidor\LICENCIA\LICENSE.txt
+________<br>
+Licencia<br>
+Lea la licencia de uso en:<br>
+	* español el archivo .\AplicacionesDelServidor\LICENCIA\LICENCIA.txt<br>
+	* inglés el archivo .\AplicacionesDelServidor\LICENCIA\LICENSE.txt<br>
 
-/_____________________________________\
-Octulio Biletán * Febrero de 2026
+/_____________________________________/<br>
+Octulio Biletán * Febrero de 2026<br>
 Sitio: https://github.com/torrentelinux/AplicacionesDelServidor/
