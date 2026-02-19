@@ -1,0 +1,14 @@
+AplicacionesDelServidor v1.0
+Copyright (c) 2026 E.H.Martínez
+Sitio: https://github.com/torrentelinux
+
+<·>Licencia en Español
+Esta utilidad se publica como software gratuito (freeware).
+Puede distribuirla libremente mediante disquete, CD-ROM, Internet o cualquier otro medio,
+siempre que no cobre nada por ello y no la venda ni la distribuya como parte de un producto comercial.
+Si distribuye esta utilidad, debe incluir todos los archivos del paquete de distribución, sin ninguna modificación.
+El software se proporciona "TAL CUAL", sin ninguna garantía, ni expresa ni implícita, incluidas, entre otras,
+las garantías implícitas de comerciabilidad e idoneidad para un fin determinado.
+El autor no será responsable de ningún daño especial, incidental, consecuente o indirecto debido a la pérdida de datos
+o por cualquier otro motivo.
+Este aviso de licencia no puede eliminarse ni modificarse en ninguna distribución fuente.
