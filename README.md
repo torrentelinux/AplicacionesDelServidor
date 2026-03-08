@@ -34,6 +34,10 @@ Lea la licencia de uso en:<br>
 	* español el archivo .\AplicacionesDelServidor\LICENCIA\LICENCIA.txt<br>
 	* inglés el archivo .\AplicacionesDelServidor\LICENCIA\LICENSE.txt<br>
 
+_________<br>
+Novedades<br>
+Se encuentra en fase de desarrollo la versión 3.0, consulte el archivo "esquema-ads-version_3_0.png".<br>
+
 /_____________________________________/<br>
 Octulio Biletán * Marzo de 2026<br>
 Sitio: https://github.com/torrentelinux/AplicacionesDelServidor/<br>
