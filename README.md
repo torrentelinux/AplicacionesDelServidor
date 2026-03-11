@@ -54,6 +54,11 @@ _________<br>
 Novedades<br>
 Se encuentra en fase de desarrollo la versión 3.0, consulte el archivo "esquema-ads-version_3_0.png".<br>
 
+_________<br>
+Wiki<br>
+Leer la documentación del producto en<br>
+https://github.com/torrentelinux/AplicacionesDelServidor/wiki/Documentaci%C3%B3n<br>
+
 /_____________________________________/<br>
 Octulio Biletán * Marzo de 2026<br>
 Sitio: https://github.com/torrentelinux/AplicacionesDelServidor/<br>
