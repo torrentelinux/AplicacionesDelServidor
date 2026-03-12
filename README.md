@@ -7,7 +7,7 @@ Lo hace ideal para correr en Windows Server Core en todas sus versiones.<br>
 
 Archivo instalador<br>
 Para instalar la aplicación .exe primero ejecute el instalador<br>
-'AplicacionesDelServidor-v2_0-Instalador.exe' y siga los pasos<br>
+'AplicacionesDelServidor-Instalador-2.0.exe' y siga los pasos<br>
 del asistente de la instalación.<br>
 Cuando termine el proceso de instalación ejecute el acceso directo<br>
 que se encuentra en el Escritorio 'AplicacionesDelServidor.lnk' haciendo doble clic sobre el mismo.<br>
