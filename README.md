@@ -59,6 +59,11 @@ Wiki<br>
 Leer la documentación del producto en<br>
 https://github.com/torrentelinux/AplicacionesDelServidor/wiki/Documentaci%C3%B3n<br>
 
+_______<br>
+Video<br>
+Haga clic en el siguiente enlace para ver el video y conocer la utilidad 'AplicacionesDelServidor'.<br>
+https://vimeo.com/1176988286<br>
+
 /_____________________________________/<br>
 Octulio Biletán * Marzo de 2026<br>
 Sitio: https://github.com/torrentelinux/AplicacionesDelServidor/<br>
