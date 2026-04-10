@@ -1,5 +1,5 @@
 # AplicacionesDelServidor
-"AplicacionesDelServidor", versión 3.0, para Windows<br>
+"AplicacionesDelServidor", versión 3.1, para Windows<br>
 
 Utilitario Freeware de 64 bits para Windows 64 bits.<br>
 Orientado para la administración de servidores y la gestión de centros de datos.<br>
@@ -7,7 +7,7 @@ Lo hace ideal para correr en Windows Server Core en todas sus versiones.<br>
 
 Archivo instalador<br>
 Para instalar la aplicación .exe primero ejecute el instalador<br>
-'AplicacionesDelServidor-Instalador-3.0.exe' y siga los pasos<br>
+'AplicacionesDelServidor-Instalador-3.1.exe' y siga los pasos<br>
 del asistente de la instalación.<br>
 Cuando termine el proceso de instalación ejecute el acceso directo<br>
 que se encuentra en el Escritorio 'AplicacionesDelServidor.lnk' haciendo doble clic sobre el mismo.<br>
@@ -16,7 +16,7 @@ y haga doble clic sobre 'AplicacionesDelServidor', publicador 'Torrentarium'.<br
 
 Archivo comprimido<br>
 Para instalar la aplicación .exe primero descomprima el fichero<br>
-'AplicacionesDelServidor-v3_0-binarios-win64.7z' en el directorio/carpeta<br>
+'AplicacionesDelServidor-v3_1-binarios-win64.7z' en el directorio/carpeta<br>
 de su elección.<br>
 Ejecute 'ads.exe' haciendo clic sobre el mismo.<br>
 Para desinstalar la aplicación y todos sus ficheros borre el directorio/carpeta<br>
@@ -65,5 +65,5 @@ Haga clic en el siguiente enlace para ver el video y conocer la utilidad 'Aplica
 https://vimeo.com/1176988286<br>
 
 /_____________________________________/<br>
-Octulio Biletán * Marzo de 2026<br>
+Octulio Biletán * Abril de 2026<br>
 Sitio: https://github.com/torrentelinux/AplicacionesDelServidor/<br>
