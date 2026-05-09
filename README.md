@@ -21,7 +21,7 @@ que se encuentra en el Escritorio 'AplicacionesDelServidor.lnk' haciendo doble c
 Para desinstalar la aplicación y todos sus ficheros vaya a 'Control Panel\Programs\Programs and Features'<br>
 y haga doble clic sobre 'AplicacionesDelServidor', publicador 'Torrentarium'.<br>
 
-Archivo comprimido<br>
+<u>Archivo comprimido</u><br>
 Para instalar la aplicación .exe primero descomprima el fichero<br>
 'AplicacionesDelServidor-v3_2-binarios-win64.7z' en el directorio/carpeta<br>
 de su elección.<br>
