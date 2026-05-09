@@ -12,7 +12,7 @@ Se cuenta con dos módulos ejecutables: ads-gui.exe y ads-tui.exe<br>
 El primero es para las diferentes versiones de Windows con interfaz gráfica (Windows 11/10/8, Server) y
 el último se ajusta más a las versiones de Windows Server Core que carecen del sistema gráfico (Explorer).<br>
 
-Archivo instalador<br>
+<u>Archivo instalador</u><br>
 Para instalar la aplicación .exe primero ejecute el instalador<br>
 'AplicacionesDelServidor-Instalador-3.2.exe' y siga los pasos<br>
 del asistente de la instalación.<br>
