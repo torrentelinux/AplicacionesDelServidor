@@ -65,5 +65,5 @@ Haga clic en el siguiente enlace para ver el video y conocer la utilidad 'Aplica
 https://vimeo.com/1176988286<br>
 
 /_____________________________________/<br>
-Octulio Biletán * Abril de 2026<br>
+Octulio Biletán * Mayo de 2026<br>
 Sitio: https://github.com/torrentelinux/AplicacionesDelServidor/<br>
