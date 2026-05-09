@@ -4,6 +4,13 @@
 Utilitario Freeware de 64 bits para Windows 64 bits.<br>
 Orientado para la administración de servidores y la gestión de centros de datos.<br>
 Lo hace ideal para correr en Windows Server Core en todas sus versiones.<br>
+En 'ads' se reunen, en una única aplicación, gran parte de las herramientas utilitarias con que dispone
+Windows para su administración.<br>
+Así el usuario Administrador accede directamente a: Panel de Control, Configuración del Sistema,
+Administrador del Servidor y mucho más.<br>
+Se cuenta con dos módulos ejecutables: ads-gui.exe y ads-tui.exe<br>
+El primero es para las diferentes versiones de Windows con interfaz gráfica (Windows 11/10/8, Server) y
+el último se ajusta más a las versiones de Windows Server Core que carecen del sistema gráfico (Explorer).<br>
 
 Archivo instalador<br>
 Para instalar la aplicación .exe primero ejecute el instalador<br>
