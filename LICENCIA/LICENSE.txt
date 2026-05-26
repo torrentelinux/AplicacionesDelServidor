@@ -1,4 +1,4 @@
-AplicacionesDelServidor v3.2
+AplicacionesDelServidor v3.3
 Copyright (c) 2026 E.H.Martínez
 Web Site: https://github.com/torrentelinux
 
