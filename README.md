@@ -1,6 +1,7 @@
 # AplicacionesDelServidor
-"AplicacionesDelServidor", versión 3.3, para Windows<br>
-
+**"AplicacionesDelServidor"**, versión 3.3, para Windows.<br>
+![AplicacionesDelServidor v3.3](https://github.com/torrentelinux/AplicacionesDelServidor/blob/main/Im%C3%A1genes/Pantalla-22b.png)
+****************
 Utilitario Freeware de 64 bits para Windows 64 bits.<br>
 Orientado para la administración de servidores y la gestión de centros de datos.<br>
 Lo hace ideal para correr en Windows Server Core en todas sus versiones.<br>
