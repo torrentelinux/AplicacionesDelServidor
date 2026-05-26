@@ -13,7 +13,7 @@ Se cuenta con dos módulos ejecutables: ads-gui.exe y ads-tui.exe<br>
 El primero es para las diferentes versiones de Windows con interfaz gráfica (Windows 11/10/8, Server) y
 el último se ajusta más a las versiones de Windows Server Core que carecen del sistema gráfico (Explorer).<br>
 
-<u>Archivo instalador</u><br>
+**Archivo instalador**<br>
 Para instalar la aplicación .exe primero ejecute el instalador<br>
 'AplicacionesDelServidor-Instalador-3.3.exe' y siga los pasos<br>
 del asistente de la instalación.<br>
@@ -22,7 +22,7 @@ que se encuentra en el Escritorio 'AplicacionesDelServidor.lnk' haciendo doble c
 Para desinstalar la aplicación y todos sus ficheros vaya a 'Control Panel\Programs\Programs and Features'<br>
 y haga doble clic sobre 'AplicacionesDelServidor', publicador 'Torrentarium'.<br>
 
-<u>Archivo comprimido</u><br>
+**Archivo comprimido**<br>
 Para instalar la aplicación .exe primero descomprima el fichero<br>
 'AplicacionesDelServidor-v3.3-binarios-win64.7z' en el directorio/carpeta<br>
 de su elección.<br>
@@ -52,23 +52,23 @@ Desde la línea de comandos del sistema escriba:<br>
 
 y mostrará los detalles de producción del mencionado software.<br>
 
-Atención<br>
+**Atención**<br>
 Tenga muy presente que este producto software está destinado para el administrador del sistema operativo,<br>
 cuenta 'Administrador'/'Administrator'.<br>
 
 ________<br>
-Licencia<br>
+**Licencia**<br>
 Lea la licencia de uso en:<br>
 	* español el archivo .\AplicacionesDelServidor\LICENCIA\LICENCIA.txt<br>
 	* inglés el archivo .\AplicacionesDelServidor\LICENCIA\LICENSE.txt<br>
 
 _________<br>
-Wiki<br>
+**Wiki**<br>
 Leer la documentación del producto en<br>
 https://github.com/torrentelinux/AplicacionesDelServidor/wiki/Documentaci%C3%B3n<br>
 
 _______<br>
-Video<br>
+**Video**<br>
 Haga clic en el siguiente enlace para ver el video y conocer la utilidad 'AplicacionesDelServidor'.<br>
 https://vimeo.com/1176988286<br>
 
