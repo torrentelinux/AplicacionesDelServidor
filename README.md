@@ -51,8 +51,10 @@ Desde la línea de comandos del sistema escriba:<br>
 	ads /i<br>
 
 y mostrará los detalles de producción del mencionado software.<br>
+
 **Documentación local**<br>
 Lea el Manual del Usuario (ManualDelUsuario.html) una vez completada la instalación de la aplicación, dirígase a la opción de menú 'Ayuda/Aplicaciones del Servidor' luego haga doble clic sobre el ícono "Manual del Usuario" y se abrirá la ventana del navegador web con la documentación a la vista.<br>
+También se cuenta con el archivo [ManualDelUsuario.pdf](https://github.com/torrentelinux/AplicacionesDelServidor/blob/main/ManualDelUsuario.pdf) para su consulta en línea.<br>
 
 **Atención**<br>
 Tenga muy presente que este producto software está destinado para el administrador del sistema operativo,<br>
